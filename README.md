@@ -11,4 +11,4 @@ I am an accountant, but not a common accountant :smile:
 
 ## Projects:
 
- * [Data analyze from Airbnb - Paris](https://bit.ly/36Ln6Ug)
+ * [Analise de dados Airbnb: Paris]
