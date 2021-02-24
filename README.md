@@ -17,6 +17,8 @@ For a better experience open the projects at google colab.
 ## Projects:
 
  * [Analise de dados Airbnb: Paris - pt](https://github.com/rnmarin/portfolio/blob/main/AnaliseDadosAirbnbParispt.ipynb)
+ 
+ * [L'analyse des données Airbn Paris - fr](https://github.com/rnmarin/portfolio/blob/main/L'analysedesdonn%C3%A9esAirbnbParisfr.ipynb)
 
  * [Analisi dei Dati Airbnb: Roma - it](https://github.com/rnmarin/portfolio/blob/main/AnalisideiDatiAirbnbRomait.ipynb)
  
